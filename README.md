@@ -1,10 +1,10 @@
 ### Oie pessoal! 👋
-Me chamo Anna Carolina Martuti , sou técnica em informática pelo IFSULDEMINAS e atualmente estou { tentando } desbravar o mundo - principalmente as áreas de tecnologia e negócios. 
+Me chamo Anna Carolina Martuti, sou técnica em informática pelo IFSULDEMINAS e atualmente estou { tentando } desbravar o mundo - principalmente as áreas de tecnologia e negócios. 
 
 Esse espaço é reservado para publicação e exibição de projetos construídos por mim nesta jornada de aprendizado. Se quiser conhecer mais sobre minha trajetória até o momento, deixo abaixo links do meu portfólio e LinkedIn. <br>
 
-Portfólio: Em desenvolvimento <br>
-LinkedIn: <br>
+<br>Portfólio:</b> Em desenvolvimento <br>
+<b>LinkedIn:<b> <br>
 
 <!--
 **martuti/martuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
