@@ -3,7 +3,7 @@ Me chamo Anna Carolina Martuti, sou técnica em informática pelo IFSULDEMINAS e
 
 Este espaço é reservado para publicação e exibição de projetos construídos por mim nesta jornada de aprendizado. Se quiser conhecer mais sobre minha trajetória até o momento, deixo abaixo links do meu portfólio e LinkedIn. <br>
 
-<strong>Portfólio:</strong> <a href="https://martuti.github.io/portfolio/" > <br>
+<strong>Portfólio:</strong> <a href="https://martuti.github.io/portfolio/" > Site </a> <br>
 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/amartuti" > Meu perfil </a> <br>
 
 <!--
